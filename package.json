@@ -1,0 +1,19 @@
+{
+  "name": "hipchat-deleter",
+  "version": "1.0.0",
+  "description": "Deletes your chat history with another member on HipChat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.2",
+    "cheerio": "^0.22.0",
+    "dateformat": "^1.0.12",
+    "prompt": "^1.0.0",
+    "request": "^2.76.0",
+    "sleep-async": "^1.0.1"
+  }
+}
